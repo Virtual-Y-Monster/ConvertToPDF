@@ -1,4 +1,5 @@
 import comtypes.client
+from comtypes.gen.PowerPoint import *
 import os
 
 __all__ = ["PPTtoPDF"]
